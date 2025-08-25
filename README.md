@@ -1,3 +1,3 @@
 # Playing-with-Website
 
-it's my journey learning HTML and CSS
+just my journey learning HTML and CSS
