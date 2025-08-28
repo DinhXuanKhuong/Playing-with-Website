@@ -32,8 +32,8 @@ Lightness is also a percentage. 0% is black, 50% is neither light or dark, 100% 
 }
 
 h6 {
-    background-color: black;
-    color:yellow
+    background-color: rgb(56, 197, 20);
+    color:yellow /*This is text color*/
 }
 /* where to find the best color?? 
 hit me: https://color.adobe.com/

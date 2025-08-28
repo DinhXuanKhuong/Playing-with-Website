@@ -1,0 +1,10 @@
+div {
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: tomato; */
+    border: 4px dotted teal; /*Border boder-width border-style border-color*/
+    border-left: 2px solid red;
+    border-right: 2px solid pink;
+    border-bottom: 2px solid yellow;
+    border-top: 2px solid green;
+}
